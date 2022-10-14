@@ -46,3 +46,4 @@ def binary_search(array, item):
 arr = list(map(int, map(stip, input().split(","))))
 element = int(input())
 binary_search(arr, element)
+print("test")
